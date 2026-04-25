@@ -1,0 +1,13 @@
+Local Restaurant with Calorie Management System
+ مطعم شعبي مع نظام حساب سعرات الطعام
+Abstract
+This project aims to develop a calorie management system for a traditional Egyptian food shop specializing in foul and falafel meals. Many local food vendors do not provide nutritional information, making it difficult for customers to monitor their daily calorie intake. The proposed system will allow users to select food items, specify quantities, and automatically calculate both total calories and price.
+The system will be implemented using C# and will follow Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, and polymorphism. Each food item will be represented as an object containing its properties like name, price, and calorie value.
+The expected outcome is a simple, user-friendly application that helps customers make healthier food choices while demonstrating the practical use of OOP concepts in solving real-world problems.
+Team Members
+Youssef Mohamed Mahmoud Mohamed Roshdy
+Youssef Mohamed Mahmoud Mohamed Allam
+Youssef Mohamed Kamal Abdelmegid Ashour
+Youssef Mohamed Youssef Mohamed Youssef
+Youssef Mamdouh Abd Elalim Elsaeed
+Youssef Walid Ebrahim Abdo Elkhayat
